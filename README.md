@@ -1,8 +1,8 @@
 # ccminer
 
-suprminer 1.0 - sp-mod (May 2018) optimized x16r algo without any dev fee.
+suprminer 1.6 - sp-mod optimized (December 2018) optimized x16r algo and added x16rt without any dev fee.
 
-Most optimizations come from sp:, so please support him.
+Most optimizations come from alexis, so please support him.
 
 This variant was tested and built on Linux (ubuntu server 14.04, 16.04, Fedora 22 to 25)
 It is also built for Windows 7 to 10 with VStudio 2013, to stay compatible with Windows 7 and Vista.
